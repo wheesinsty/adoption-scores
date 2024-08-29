@@ -4,6 +4,7 @@ This module scrapes adoption scores from a list of clients and pastes them into 
 ## Set-up
 To use this software, ensure that
 1. Install `python` and `git` from the internet
+
 2. In your terminal, install pip with 
    ```bash
    python -m ensurepip --upgrade
